@@ -1,0 +1,15 @@
+# Data Driven Appointment Scheduling for Hospital Management
+
+This repository contains the Google Colab notebook, synthetic dataset,
+and figures used in the MSc dissertation project.
+
+## Contents
+- notebook/ : Google Colab notebook containing all analysis, models, and simulation
+- data/     : synthetic master dataset (CSV)
+- figures/  : Charts Graphs, Table and PNGs used in Chapters 4 and 5 of the dissertation
+
+## Notes
+- All analysis is performed in the Colab notebook.
+- All data is synthetic and anonymised.
+- No real patient or hospital data is used.
+- Results reproduce the KPIs and figures reported in the dissertation.
